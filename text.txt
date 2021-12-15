@@ -1,0 +1,8 @@
+k=eval (input())
+data = [10,20,30,40,50]
+for i in data:
+    if i == k:
+        print ("Index:{}".format(data.index(i)))
+    else:
+        print("¨S¦³§ä¨ì")
+        
